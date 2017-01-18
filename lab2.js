@@ -45,4 +45,4 @@ if (computerChoice < 0.34) {
         }   
  };     
  
- compare(userChoice, computerChoice);
+ console.log(compare(userChoice, computerChoice));
