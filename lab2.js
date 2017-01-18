@@ -33,7 +33,7 @@ if (computerChoice < 0.34) {
          return "scissors wins";
         }
         }   
-        else (choice1 === "scissors") 
+        else choice1 === "scissors"
         {
          if(choice2 ==="rock") {
          return "rock wins";
